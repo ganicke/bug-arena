@@ -232,7 +232,7 @@ namespace hourOfAi {
     //% block="on bump wall"
     //% group="Events"
     //% weight=80
-    //% help=github:arcade-bug-arena/docs/onBumpWall
+    //% help=github:bug-arena/docs/onBumpWall
     export function onBumpWall(handler: () => void) {
         initAPI();
         _agent.onBumpWall(handler);
