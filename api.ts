@@ -199,7 +199,7 @@ namespace hourOfAi {
     //% millis.shadow=timePicker
     //% group="Events"
     //% weight=90
-    //% help=github:arcade-bug-arena/docs/every
+    //% help=github:bug-arena/docs/every
     export function every(millis: number, handler: () => void) {
         initAPI();
         _agent.every(millis, handler);
