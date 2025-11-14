@@ -25,5 +25,5 @@ hourOfAi.every(5000, () => {
 ```
 
 ```package
-hour-of-ai=github:riknoll/bug-arena
+hour-of-ai=github:ganicke/bug-arena
 ```
